@@ -1,0 +1,22 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="EmBrushBorder" Color="DarkGray"/>
+    <SolidColorBrush x:Key="MauChu" Color="#AF460F" />
+    <SolidColorBrush x:Key="MauNen" Color="White"  />
+    <SolidColorBrush x:Key="MauVien" Color="DarkGray"  />
+    <SolidColorBrush x:Key="MauChinh" Color="#91bd3a"  />
+
+    <SolidColorBrush x:Key="XanhDam" Color="#0C336C"/>
+    <SolidColorBrush x:Key="MauDo" Color="Red"/>
+    <SolidColorBrush x:Key="XanhLa" Color="#91bd3a"/>
+    <SolidColorBrush x:Key="NauDat" Color="#af460f"/>
+
+    <SolidColorBrush x:Key="WindowButtonPressedColor" Color="#8cc63e"/>
+    <SolidColorBrush x:Key="WindowForeHighlightColor" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="WindowForeColor" Color="DarkRed"/>
+    <SolidColorBrush x:Key="WindowButtonColor" Color="LightGray"/>
+
+</ResourceDictionary>
+    
+    

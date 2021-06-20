@@ -1,0 +1,50 @@
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\bin\Debug\AlphaBIMWPF.dll
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\bin\Debug\AlphaBIMWPF.pdb
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\bin\Debug\MahApps.Metro.ALB.dll
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\bin\Debug\MaterialDesignColors.ALB.dll
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\bin\Debug\MaterialDesignThemes.Wpf.ALB.dll
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\bin\Debug\ControlzEx.dll
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\CustomWindow\InputBoxWindow.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\CustomWindow\Scope2Window.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\CustomWindow\ScopeWindow.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\Resource\ButtonStyle.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\Resource\CheckBoxStyle.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\Resource\RadiobuttonStyle.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\Resource\SolidColorBrushStyles.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\Resource\Styles.baml
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\CustomWindow\InputBoxWindow.g.cs
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\CustomWindow\Scope2Window.g.cs
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\CustomWindow\ScopeWindow.g.cs
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\AlphaBIMWPF_MarkupCompile.cache
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.g.resources
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.csproj.CoreCompileInputs.cache
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.csproj.CopyComplete
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.dll
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.pdb
+D:\01_ALPHA BIM\01_Revit API\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.csprojAssemblyReference.cache
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\bin\Debug\AlphaBIMWPF.dll
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\bin\Debug\AlphaBIMWPF.pdb
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\bin\Debug\MahApps.Metro.ALB.dll
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\bin\Debug\MaterialDesignColors.ALB.dll
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\bin\Debug\MaterialDesignThemes.Wpf.ALB.dll
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\bin\Debug\ControlzEx.dll
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\CustomWindow\InputBoxWindow.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\CustomWindow\Scope2Window.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\CustomWindow\ScopeWindow.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\Resource\ButtonStyle.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\Resource\CheckBoxStyle.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\Resource\RadiobuttonStyle.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\Resource\SolidColorBrushStyles.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\Resource\Styles.baml
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\CustomWindow\InputBoxWindow.g.cs
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\CustomWindow\Scope2Window.g.cs
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\CustomWindow\ScopeWindow.g.cs
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\AlphaBIMWPF_MarkupCompile.cache
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.g.resources
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.csproj.CoreCompileInputs.cache
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.csproj.CopyComplete
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.dll
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.pdb
+D:\01_ALPHABIM\01_RevitAPI\AlphaBIMWPF\obj\Debug\AlphaBIMWPF.csprojAssemblyReference.cache

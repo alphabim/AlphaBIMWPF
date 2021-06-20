@@ -1,0 +1,47 @@
+﻿<Window x:Class="AlphaBIM.ProgressBarsWait"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" 
+
+             Title="Alpha BIM - Checking License" 
+             ResizeMode="NoResize" 
+             ShowInTaskbar="False" 
+             WindowStartupLocation="CenterScreen"
+             Height="220" Width="220"
+             MinHeight="10" MinWidth="10"
+             Topmost="True"
+             Background="Azure" 
+             WindowStyle="None" 
+             >
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/AlphaBIMWPF;component/Resource/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+    </Window.Resources>
+    <Window.Foreground>
+        <SolidColorBrush Color="#FFF11E1E" Opacity="0"/>
+    </Window.Foreground>
+
+    <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+
+        <!--<Controls:MetroProgressBar Width="{Binding ElementName=MetroHeader, Path=ActualWidth}"
+                                               Margin="4"
+                                       IsIndeterminate="True"
+                                               Maximum="100"
+                                               Minimum="0"
+                                       Foreground="{DynamicResource MauChinh}"
+                                               />-->
+
+        <Controls:ProgressRing 
+            
+            Foreground="{DynamicResource MauChinh}" />
+    </StackPanel>
+</Window>

@@ -1,0 +1,53 @@
+<Window x:Name="MainWindow" x:Class="AlphaBIM.ScopeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        
+        Title="Scope" ResizeMode="NoResize" 
+        KeyDown="MainWindow_KeyDown"
+        ShowInTaskbar="True" WindowStartupLocation="CenterScreen"
+        Height="117.09" Width="371.76"
+         Loaded="MainWindow_Loaded" 
+        >
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resource/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid x:Name="MainGrid">
+        <StackPanel>
+            <DockPanel LastChildFill="True" HorizontalAlignment="Center">
+                <RadioButton Content="Entire Model"
+                         GroupName="ScopeExcute"
+                         IsChecked="{Binding IsEntireModel}"
+                         TabIndex="0"
+                          />
+                <RadioButton Content="Current View"
+                         GroupName="ScopeExcute"
+                         IsChecked="{Binding IsCurrentView}"
+                         TabIndex="1"
+                         />
+                <RadioButton Content="Current Selection"
+                         GroupName="ScopeExcute"
+                         IsChecked="{Binding IsCurrentSelection}"
+                         />
+            </DockPanel>
+
+            <DockPanel HorizontalAlignment="Right" 
+                       VerticalAlignment="Top"
+                       Height="40"
+                       >
+                <Button  DockPanel.Dock="Left"
+                    Content="OK"
+                    Width="100"
+                     IsDefault="True"
+                    Click="btnOk_Click" TabIndex="2" />
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>

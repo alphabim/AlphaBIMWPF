@@ -1,0 +1,54 @@
+﻿<Window x:Name="MainWindow" x:Class="AlphaBIM.InputBoxWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        
+        Title="Input Box" ResizeMode="NoResize" 
+        KeyDown="MainWindow_KeyDown"
+        ShowInTaskbar="True" WindowStartupLocation="CenterScreen"
+        Height="140.423" Width="443.093"
+         Loaded="MainWindow_Loaded" 
+        >
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resource/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <DockPanel LastChildFill="True" x:Name="DockPanel">
+        <Grid DockPanel.Dock="Top">
+            <!--<Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>-->
+
+            <!--<TextBlock  Text="{Binding TextPrompt}" 
+                Grid.Column="0"
+                       Grid.Row="0"
+                      />-->
+
+            <TextBox Grid.Row="1" Grid.Column="0"
+                     x:Name="InputBox"
+                     HorizontalContentAlignment="Left"
+                     materialDesign:HintAssist.Hint="{Binding TextPrompt}"
+                     Text="{Binding InputValue}" />
+        </Grid>
+
+        <DockPanel>
+            <Button DockPanel.Dock="Right"
+                    HorizontalAlignment="Right"
+                    Content="OK"
+                    IsDefault="True"
+                    Width="100"
+                    Click="btnOk_Click"
+                    />
+        </DockPanel>
+    </DockPanel>
+
+</Window>
